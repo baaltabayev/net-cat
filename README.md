@@ -23,4 +23,3 @@ $
 ```
 ## Authors
 @abaltaba
-@akaiyrgel
